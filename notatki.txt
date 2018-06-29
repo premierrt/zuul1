@@ -1,0 +1,7 @@
+https://spring.io/guides/gs/routing-and-filtering/
+
+--bezposrednio serwer
+http://localhost:8090/goodbay
+
+--proxy przez zuula
+http://localhost:8080/glupi_kontroler/goodbay
